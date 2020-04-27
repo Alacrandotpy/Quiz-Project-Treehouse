@@ -1,4 +1,4 @@
-# quiz.js
+# quiz-project
 
 1. Store correct answers
    - When quiz begins, no answers are correct
